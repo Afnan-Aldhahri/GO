@@ -1,6 +1,9 @@
 # GO
 
-If you are new to **GO** , this presentation will give you an overview picture of **GO**.
+If you are new to **GO** , this presentation will give you an overview picture of **GO** and how its related to software Engineering .
+
+We will start *together* this journey, since **GO** is a *new* programming language for me too.
+
 
 Table of Contents:
 
