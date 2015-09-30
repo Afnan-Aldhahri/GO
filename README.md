@@ -16,10 +16,14 @@ Table of Contents:
 4-Installing Go 
 
 5-Time for learning GO
+
  * Code Orgnization
-     *Workspaces
-     *The GOPATH environment variable
-     *Package paths
+ 
+     * Workspaces
+     
+     * The GOPATH environment variable
+     
+     * Package paths
 
 6-
 
