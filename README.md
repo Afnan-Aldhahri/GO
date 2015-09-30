@@ -73,6 +73,8 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          * Goroutines
          
          * Channels
+         
+         * Parallelization
 
 
 6- Run your first program.
