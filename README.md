@@ -18,15 +18,15 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 1-[What is GO ?](https://github.com/Afnan-Aldhahri/GO/blob/master/What%20is%20GO%20%3F%20.md)  
 
-2-Who and When?
+2-[Who and When?](https://github.com/Afnan-Aldhahri/GO/blob/master/Who%20and%20When%3F.md)
 
 3-GO Release History 
 
-4-Installing Go 
+4-[Installing Go](https://github.com/Afnan-Aldhahri/GO/blob/master/InstallingGO.md) 
 
 5-Time for learning GO
 
- * Code Organization
+ * [Code Organization](https://github.com/Afnan-Aldhahri/GO/blob/master/Code%20Organization.md)
  
      * Workspaces
      
@@ -85,4 +85,4 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 9-Conclusion
 
-10-References (bibliography)
+10-[References (bibliography)](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md)
