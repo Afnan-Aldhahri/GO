@@ -20,7 +20,7 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 2-[Who and When?](https://github.com/Afnan-Aldhahri/GO/blob/master/Who%20and%20When%3F.md)
 
-3-GO Release History 
+3-[Why GO?](https://github.com/Afnan-Aldhahri/GO/blob/master/Why%20GO.md) 
 
 4-[Installing Go](https://github.com/Afnan-Aldhahri/GO/blob/master/InstallingGO.md) 
 
