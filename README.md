@@ -9,6 +9,7 @@ and most importantly , you will know why choosing GO .
 We will start *together* this journey, since **GO** is a *new* programming language for me too.
 
 
+-----------------------------------------------------------------------------------------------------
 
 
 **Table of Contents:**
