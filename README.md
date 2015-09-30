@@ -68,6 +68,11 @@ We will start *together* this journey, since **GO** is a *new* programming langu
      * Methods
      
      * Concurrency
+         * Share by communicating
+         
+         * Goroutines
+         
+         * Channels
 
 
 6- Run your first program.
