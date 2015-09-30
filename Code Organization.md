@@ -3,15 +3,18 @@
 
 # Workspaces
 
-Go code must be store inside a workspace.
 
-A workspace is a directory ranking structure with three directories at the root:
+Go code must be store inside *a workspace*.
+
+**A workspace** is a directory ranking structure with three directories at the root:
+
 
 **src** contains Go source files organized into packages (one package per directory),
 
 **pkg** contains package objects, and
 
 **bin** contains executable commands.
+
 
 The *go tool* builds source packages and installs the resulting binaries to the pkg and bin directories.
 
@@ -40,6 +43,7 @@ To give you an idea of how a workspace looks in practice, here's an example:
     	    reverse.go             # package source
       	    reverse_test.go        # test source
 	    
+	    
 - This workspace contains **one repository** (example) 
 
 - comprising **two commands** (hello and outyet) and 
@@ -53,6 +57,7 @@ Most Go programmers keep all their Go source code and dependencies in a single w
 
 
 # The GOPATH environment variable
+
 
 Here you can state the location of your workspace. 
 
@@ -71,7 +76,7 @@ First, create a workspace directory then set GOPATH accordingly.
 
 - If you store your code in a source repository somewhere, then your your base path have to be the root of that source repository.
 
-For instance, if you have a GitHub account at github.com/user, that should be your base path.
+    For instance, if you have a GitHub account at github.com/user, that should be your base path.
 
 - you can choose any random path name, however, it has to be unique to the standard library and greater Go ecosystem.
 
