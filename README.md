@@ -57,7 +57,6 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          
          * Printing
          
-         * Maps
          
      * Initialization
      
