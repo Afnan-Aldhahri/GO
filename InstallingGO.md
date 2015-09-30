@@ -12,4 +12,4 @@ installing GO is simple ,you can download the binary release that is matching  y
 
 GO installation available for these platforms :
 
-![Kitties!](https://github.com/kenbod/markdown_github_01/blob/master/resources/kitty.jpg "So cute!")
+![Install GO!](https://cloud.githubusercontent.com/assets/14142983/10209255/c42176be-6796-11e5-9ae7-95c8e8adb7de.jpg "Install GO")
