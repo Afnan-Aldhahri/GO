@@ -17,7 +17,7 @@ Table of Contents:
 
 5-Time for learning GO
 
- * Code Orgnization
+ * Code Organization
  
      * Workspaces
      
