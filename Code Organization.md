@@ -3,40 +3,48 @@
 
 # Workspaces
 
-Go code must be store inside a workspace. A workspace is a directory ranking structure with three directories at the root:
+Go code must be store inside a workspace.
 
-*src* contains Go source files organized into packages (one package per directory),
-*pkg* contains package objects, and
-*bin* contains executable commands.
+A workspace is a directory ranking structure with three directories at the root:
+
+**src** contains Go source files organized into packages (one package per directory),
+
+**pkg** contains package objects, and
+
+**bin** contains executable commands.
 
 The *go tool* builds source packages and installs the resulting binaries to the pkg and bin directories.
 
-The src subdirectory typically contains multiple version control repositories (such as for Git or Mercurial) that track the development of one or more source packages.
+The src subdirectory typically contains multiple version control repositories (such as for Git or Mercurial) that track the
+
+development of one or more source packages.
 
 To give you an idea of how a workspace looks in practice, here's an example:
 
-bin/
-    hello                          # command executable
-    outyet                         # command executable
-pkg/
-    linux_amd64/
-        github.com/golang/example/
-            stringutil.a           # package object
-src/
+    bin/
+        hello                          # command executable
+        outyet                         # command executable
+    pkg/
+        linux_amd64/
+           github.com/golang/example/
+               stringutil.a           # package object
+    src/
     github.com/golang/example/
         .git/                      # Git repository metadata
-	hello/
-	    hello.go               # command source
-	outyet/
-	    main.go                # command source
-	    main_test.go           # test source
-	stringutil/
-	    reverse.go             # package source
-	    reverse_test.go        # test source
+    	hello/
+    	    hello.go               # command source
+     	outyet/
+    	    main.go                # command source
+    	    main_test.go           # test source
+    	stringutil/
+    	    reverse.go             # package source
+      	    reverse_test.go        # test source
 	    
-This workspace contains **one repository** (example) 
-comprising **two commands** (hello and outyet) and 
-**one library** (stringutil).
+- This workspace contains **one repository** (example) 
+
+- comprising **two commands** (hello and outyet) and 
+
+- **one library** (stringutil).
 
 usually a workspace has many source repositories containing many packages and commands.
 
@@ -62,6 +70,7 @@ First, create a workspace directory then set GOPATH accordingly.
 
 
 - If you store your code in a source repository somewhere, then your your base path have to be the root of that source repository.
+
 For instance, if you have a GitHub account at github.com/user, that should be your base path.
 
 - you can choose any random path name, however, it has to be unique to the standard library and greater Go ecosystem.
