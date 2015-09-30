@@ -25,6 +25,32 @@ Table of Contents:
      
      * Package paths
 
+* Go the Basics 
+     *Formatting , Comments and Semicolons
+     *Names
+
+     *Control structures
+         *IF
+         *For
+         *Switch
+         
+     *Functions
+ 
+     *Data
+         *Arrays
+         *Maps
+         *Printing
+         *Maps
+         
+     *Initialization
+         *Constants
+         *Variables
+         
+     *Methods
+     *Concurrency
+
+
+
 6-
 
 7-Conclusion
