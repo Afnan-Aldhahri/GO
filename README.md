@@ -5,7 +5,9 @@ If you are new to **GO** , this presentation will give you an overview picture o
 We will start *together* this journey, since **GO** is a *new* programming language for me too.
 
 
-Table of Contents:
+
+** Table of Contents: **
+
 
 1-What is GO ? 
 
@@ -26,7 +28,7 @@ Table of Contents:
      * Package paths
 
 * Go the Basics 
-* 
+ 
      * Formatting , Comments and Semicolons
 
      * Names
@@ -63,7 +65,7 @@ Table of Contents:
 
 
 
-6-
+6- 
 
 7-Conclusion
 
