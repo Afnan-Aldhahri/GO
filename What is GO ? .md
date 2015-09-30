@@ -6,7 +6,7 @@
 
 AS 1 & 2 define GO : 
 
-GO ,also known as golang ,is an open source programming language that makes it easy to build 
+**GO** , which is also known as golang ,is an open source programming language that makes it easy to build 
 
 simple, reliable, and efficient software.
 
