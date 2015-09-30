@@ -16,7 +16,7 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 
 
-1-What is GO ? 
+1-[What is GO ?](https://github.com/Afnan-Aldhahri/GO/blob/master/What%20is%20GO%20%3F%20.md)  
 
 2-Who and When?
 
