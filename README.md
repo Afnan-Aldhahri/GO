@@ -6,7 +6,9 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 
 
-** Table of Contents: **
+
+**Table of Contents:**
+
 
 
 1-What is GO ? 
