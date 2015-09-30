@@ -66,9 +66,12 @@ We will start *together* this journey, since **GO** is a *new* programming langu
      * Concurrency
 
 
+6- Run your first program.
 
-6- 
+7- Testing
 
-7-Conclusion
+8- How GO related to our class : Software Engineering
 
-8-References (bibliography)
+9-Conclusion
+
+10-References (bibliography)
