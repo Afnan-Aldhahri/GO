@@ -36,9 +36,9 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 * [Go the Basics](https://github.com/Afnan-Aldhahri/GO/blob/master/Go%20the%20Basics.md) 
  
-     * [Formatting , Comments and Semicolons](https://github.com/Afnan-Aldhahri/GO/blob/master/Formatting%20%2C%20Comments%20and%20Semicolons.md)
+     * [Formatting , Comments](https://github.com/Afnan-Aldhahri/GO/blob/master/Formatting%20%2C%20Comments%20and%20Semicolons.md)
 
-     * [Names](https://github.com/Afnan-Aldhahri/GO/blob/master/Names.md)
+     * [Names and Semicolons](https://github.com/Afnan-Aldhahri/GO/blob/master/Names.md)
 
      * [Control structures](https://github.com/Afnan-Aldhahri/GO/blob/master/Control%20structures.md)
     
