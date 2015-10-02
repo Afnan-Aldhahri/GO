@@ -10,4 +10,4 @@ Go [offical website](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliograp
 you need at least weeks to cover it .
 So,In this section , I summerize that document and i choose for you the **basic properties** of GO that you need to write an effective GO code 
 ,and some advanced properties like **conucurrency** to make it related to what we study this semester . 
-(All the explniation and the examples are from Go [offical website](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md).
+(All the explanation and the examples are from Go [offical website](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md). )
