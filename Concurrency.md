@@ -16,11 +16,16 @@ Data races cannot occur.
 
 GO has a slogan:
 
-* Do not communicate by sharing memory; instead, share memory by communicating.
+>> Do not communicate by sharing memory; instead, share memory by communicating.
+
 * Using channels to control access makes it easier to write clear, correct programs.
+
 * One way to think about this model is to consider a typical single-threaded program running on one CPU. 
+
 * It has no need for synchronization primitives. 
+
 * Now run another such instance; it too needs no synchronization. 
+
 * Now let those two communicate; if the communication is the synchronizer, there's still no need for other synchronization. 
 
 ------------------------------------
