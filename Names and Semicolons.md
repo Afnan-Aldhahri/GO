@@ -63,6 +63,7 @@ So, don't give your method one of those names unless it has the same signature a
 **MixedCaps**
 
 Conventionally, in Go use **MixedCaps**  rather than underscores to write multiword names.
+ 
 ---------------------------------------------------------------------------------
 
 #Semicolons
