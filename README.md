@@ -49,8 +49,14 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          * Switch
          
      * [Functions](https://github.com/Afnan-Aldhahri/GO/blob/master/Functions.md)
+     
+         * Multiple return values
+         
+         * Named result parameters
+         
+         * Defer
  
-     * Data
+     * [Data](https://github.com/Afnan-Aldhahri/GO/blob/master/Data.md)
      
          * Arrays
          
@@ -59,15 +65,14 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          * Printing
          
          
-     * Initialization
+     * [Initialization](https://github.com/Afnan-Aldhahri/GO/blob/master/Initialization.md)
      
          * Constants
          
          * Variables
          
-     * Methods
      
-     * Concurrency
+     * [Concurrency](https://github.com/Afnan-Aldhahri/GO/blob/master/Concurrency.md)
          * Share by communicating
          
          * Goroutines
