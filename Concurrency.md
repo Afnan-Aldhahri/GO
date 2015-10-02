@@ -56,7 +56,9 @@ A function literal can be handy in a goroutine invocation.
     }
 
 These examples aren't too practical because the functions have no way of signaling completion. For that, we need channels.
+
 ---------------------------------------------------
+
 ## Channels
 
 Like maps, channels are allocated with make, and the resulting value acts as a reference to an underlying data structure. 
