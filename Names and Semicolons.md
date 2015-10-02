@@ -23,7 +23,9 @@ the package in src/encoding/base64 is imported as "encoding/base64" but has name
 
 Another short example is once.Do; once.Do(setup) reads well and would not be improved by writing once.
 
-DoOrWaitUntilDone(setup). Long names don't automatically make things more readable. A helpful doc comment can often be more valuable than an extra long name.
+DoOrWaitUntilDone(setup). Long names don't automatically make things more readable.
+
+A helpful doc comment can often be more valuable than an extra long name.
 
 **Getters**
 
@@ -97,7 +99,9 @@ Go programs have semicolons only in places such as for loop clauses,
 to separate the initializer, condition, and continuation elements.
 
 
-One consequence of the semicolon insertion rules is that you cannot put the opening brace of a control structure (if, for, switch, or select) on the next line.
+One consequence of the semicolon insertion rules is that you cannot put the opening brace of a control structure
+
+(if, for, switch, or select) on the next line.
 
 If you do, a semicolon will be inserted before the brace, which could cause unwanted effects.
 
