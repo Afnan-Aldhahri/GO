@@ -79,8 +79,6 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          
          * Channels
          
-         * Parallelization
-
 
 6- [Run your first program](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Run%20your%20first%20program.md)
 
