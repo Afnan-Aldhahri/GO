@@ -2,7 +2,7 @@
 
 ##Multiple return values
 
-In GO functions and methods can return multiple values.
+In GO, functions and methods can return multiple values.
 
 Here's a simple-minded function to grab a number from a position in a byte slice, returning the number and the next position.
 
