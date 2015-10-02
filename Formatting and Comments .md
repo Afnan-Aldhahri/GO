@@ -1,5 +1,5 @@
 
-# Formatting , Comments and Semicolons
+# Formatting and Comments 
 
  The **gofmt** program  examine a Go program and give out the source in a standard style of indentation 
  
