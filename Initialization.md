@@ -11,7 +11,7 @@ even among different packages, are handled correctly.
 
  * Constants are created at **compile time** , even when defined as locals in functions.
  
- *Constants  can only be numbers, characters (runes), strings or booleans. 
+ * Constants  can only be numbers, characters (runes), strings or booleans. 
  
  **1<<3** is a constant expression, while **math.Sin(math.Pi/4)** is *not* because the function call 
  
