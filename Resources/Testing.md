@@ -69,3 +69,6 @@ let's now test different combination of numbers :
     }
     }
 
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Run%20your%20first%20program.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/How%20GO%20related%20to%20our%20class%20:%20Software%20Engineering.md)
