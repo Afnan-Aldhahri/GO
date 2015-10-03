@@ -2,11 +2,11 @@
 
 As we study in Software Engineering class , a significant part of the software development process is testing. 
 
-programers some time make **errors**(mistakes) usually by missunderstanding the requirments .
+programmers some time make **errors**(mistakes) usually by misunderstanding the requirements .
 
-errors apears in our code as **falts(bugs)**.
+Errors appears in our code as **faults(bugs)**.
 
-Writing **test cases** help us to surface the **faiulers**(wrong behavior) in our programms ,so we can then connect every failer with its falt , and finally correct them.
+Writing **test cases** help us to surface the **failures**(wrong behavior) in our programs ,so we can then connect every failure with its fault , and finally correct them.
 
 Now lets use [An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/books/intro) to take a look of **Testing** with GO :
 
@@ -68,3 +68,4 @@ let's now test different combination of numbers :
     }
     }
     }
+
