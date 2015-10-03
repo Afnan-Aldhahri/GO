@@ -28,7 +28,7 @@ Use spaces only if you need to because when we use tabs for indentation gofmt em
 
 **Line length**
 
- If a line was too long, wrap it and indent with an extra tab becuse Go has no line length limit
+ If a line was too long, wrap it and indent with an extra tab because Go has no line length limit
  
 **Parentheses**
 
@@ -43,8 +43,9 @@ Use spaces only if you need to because when we use tabs for indentation gofmt em
  
  usually programmers use this for multiple line when you want to writ long description about a method for example.
  
- Howver, /* */ works for one line too.
+ However, /* */ works for one line too.
  
  
+
 
 
