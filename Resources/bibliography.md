@@ -6,3 +6,5 @@
 2-[The Little Go Book  by Karl Seguin](http://openmymind.net/assets/go/go.pdf)
 
 3-https://en.wikipedia.org/wiki/Go_(programming_language)
+
+4- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
