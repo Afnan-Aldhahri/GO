@@ -45,4 +45,7 @@ Note :
 
 so you need to type *./main*.
 
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Concurrency.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Testing.md)
 
