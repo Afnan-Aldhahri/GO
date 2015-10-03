@@ -23,3 +23,6 @@ If you want to help , create , build tools ,libraries ..etc , you are totally we
 
 *Finally*, if you liked GO , you can practice it by working on challenging programming problems from Project Euler (http://projecteuler.net/) 
 
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/How%20GO%20related%20to%20our%20class%20:%20Software%20Engineering.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/bibliography.md)
