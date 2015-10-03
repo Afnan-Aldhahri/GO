@@ -11,9 +11,9 @@ Anyone could call your package, so be careful what name you choose .
 
 package name should be good: short, expressive ,and  to the point.
 
-Conventionally,packages are given lower case , single-word names.
+Conventionally, packages are given lower case , single-word names.
 
-No need for underscores or mixedCaps. 
+No need for underscores or mixed Caps. 
 
 packages names need not be unique among all source code.
 
@@ -74,7 +74,7 @@ Go's formal grammar uses semicolons to end statements Like C .
 
 However, those semicolons do not appear in the source.
 
-alternatively, the lexer uses a simple principle to insert semicolons automatically as it scans, so the input text is mostly free of them :
+Alternatively, the lexer uses a simple principle to insert semicolons automatically as it scans, so the input text is mostly free of them :
 
 If the last token before a newline is an identifier (which includes words like int and float64),
 
@@ -83,7 +83,7 @@ a basic literal such as a number or string constant, or one of the tokens
     break continue fallthrough return ++ -- ) }
     
     
-the lexer always inserts a semicolon after the token.
+The lexer always inserts a semicolon after the token.
 
 
 A semicolon can also be ignored immediately before a closing brace, 
@@ -115,3 +115,4 @@ Write them like this
     {           // wrong!
     g()
     }
+
