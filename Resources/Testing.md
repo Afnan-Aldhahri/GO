@@ -35,8 +35,8 @@ Now run this command:
     go test
 You should see this:
 
-$ go test
-PASS
+    $ go test
+    PASS
 
 Tests are identified by starting a function with the word Test and taking one argument of type *testing.T.
 
