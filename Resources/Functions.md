@@ -99,3 +99,6 @@ Another examples :
     // do something....
     }
 
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Control%20structures.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Data.md)
