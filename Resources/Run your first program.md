@@ -6,8 +6,11 @@ Now, after we covered the basics of GO ,let’s use   [The Little Go Book  ](htt
 * Open your favorite text editor and write the following code:
     
     package main
+
     func main() {
+    
      println("it's over 9000!")
+     
     }
 
 * Save the file as main.go.
