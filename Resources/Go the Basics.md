@@ -16,3 +16,6 @@ write an effective GO code ,and some advanced properties like **concurrency** to
 
 we study this semester . (All the explanation and the examples are from Go [official website](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md). )
 
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Code%20Organization.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Formatting%20and%20Comments%20.md)
