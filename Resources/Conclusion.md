@@ -1,14 +1,25 @@
 
+
 # Conclusion.md
 
-I am a new to GO .My first time dealing with GO was when I start working on this presentation .
+I am a *new* to GO world. My first time dealing with GO was when I start working on this presentation.
 
-Howvere, I found GO a very fun programming languge .
+However, I found GO a very *fun* programming language .
 
-Its easy to learn, easy to write ,and easy to read espicialy if you are familer with C style programming languages.
+Its easy to write ,and easy to read especially if you are familiar with C style programming languages.
 
-What I really like about GO,especially after we study concerrncy the hard way in the class, is its supporting fr concurrency .
+Moreover, its very easy to learn . There are so many  documents on the Internet : specification, tutorial, "Effective Go" and a lot more .
 
-Although I found Channels are a little bit diffuclt .Howevre, goroutines are simple and stright forwad .
+What I really like about GO is tow thing :
 
-Finally, if you liked GO , you can practice it by working on challenging programming problems from Project Euler (http://projecteuler.net/) 
+**First** , its supporting for concurrency ,especially after studying concurrency the hard way in the class :)
+
+Although I found *Channels* are a little bit difficult .However, *goroutines* are simple and straightforward .
+
+**Second** , that GO is an open source environment .
+
+If you want to help , create , build tools ,libraries ..etc , you are totally welcome.
+
+
+*Finally*, if you liked GO , you can practice it by working on challenging programming problems from Project Euler (http://projecteuler.net/) 
+
