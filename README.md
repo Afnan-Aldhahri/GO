@@ -88,4 +88,4 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 9-[Conclusion](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Conclusion.md)
 
-10-[References](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md)
+10-[References](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/bibliography.md)
