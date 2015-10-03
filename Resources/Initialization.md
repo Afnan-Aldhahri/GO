@@ -72,3 +72,7 @@ Variables can be initialized just like constants but computed at **run time**.
     user   = os.Getenv("USER")
     gopath = os.Getenv("GOPATH")
     )
+
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Data.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Concurrency.md)
