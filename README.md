@@ -84,7 +84,7 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 7- [Testing](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Testing.md)
 
-8- How GO related to our class : Software Engineering
+8- [How GO related to our class : Software Engineering](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/How%20GO%20related%20to%20our%20class%20:%20Software%20Engineering.md)
 
 9-[Conclusion](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Conclusion.md)
 
