@@ -23,9 +23,9 @@ There is no **one perfect** programming language that guarantee to solve any pro
 
 The software developer has to choose the right programming language for that specific problem.
 
-There are a lot of programming languages out there .However , I choose GO for these reasons 
+There are a lot of programming languages out there .However , I choose GO for [these](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Why%20GO.md) reasons ,
 
-And to make the topic even related to what we were studying in our class, I tried to focus on **Concurrency** feature of Go
+And to make the topic even related to what we were studying in our class, I tried to focus on [Concurrency](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Concurrency.md) feature of Go
 
 because as we study in the class, Concurrent programming is always difficult since it require to implement correct access to shared variables.
 
