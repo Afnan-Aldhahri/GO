@@ -29,3 +29,8 @@ Languages with garbage collectors, like Go, are able to keep track of these vari
 5- **Fast** 
 
 6-most important thing , its **Fun ☺** 
+
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Who%20and%20When%3F.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/InstallingGO.md)
+
