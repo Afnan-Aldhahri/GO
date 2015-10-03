@@ -16,6 +16,5 @@ type safety, some dynamic-typing capabilities, additional built-in types such as
 
 and a large standard library.
 
-[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md )- 
 [Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) - 
 [ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Who%20and%20When%3F.md)
