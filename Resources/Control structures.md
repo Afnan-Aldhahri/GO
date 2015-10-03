@@ -8,7 +8,7 @@ if x > 0 {
     return y
 }
 
-braces are obligatory.
+Braces are obligatory.
 
 Writing simple if statements on multiple lines is a good habit especially when the body contains a control statement 
 
@@ -78,7 +78,7 @@ GO examine the cases top to bottom until it find a match .
 
 In case if the switch has no expression it switches on true.
 
-So,you can write a switch as  if-else-if-else sequences.
+So, you can write a switch as  if-else-if-else sequences.
 
     func unhex(c byte) byte {
        switch {
@@ -152,3 +152,4 @@ Example :
     }
     return 0
     }
+
