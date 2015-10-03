@@ -8,8 +8,9 @@ and most importantly , you will know why choosing GO .
 
 We will start *together* this journey, since **GO** is a *new* programming language for me too.
 
+[About this presentation](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/About%20this%20presentation.md) 
 
- [About this presentation](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/About%20this%20presentation.md) 
+
 -----------------------------------------------------------------------------------------------------
 
 
