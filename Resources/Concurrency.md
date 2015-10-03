@@ -111,3 +111,6 @@ and then receives a value from the channel to ready the “semaphore” for the 
     }
     }
     
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Initialization.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Run%20your%20first%20program.md)
