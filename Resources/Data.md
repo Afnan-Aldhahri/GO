@@ -91,3 +91,6 @@ prints
 18446744073709551615 ffffffffffffffff; -1 -1
 
      
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Functions.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Initialization.md)
