@@ -35,3 +35,6 @@ Only one goroutine has access to the value at any given time. Data races cannot 
 
 
 
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Testing.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Conclusion.md)
