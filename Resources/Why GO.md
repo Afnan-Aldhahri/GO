@@ -22,9 +22,9 @@ he can just use the libraries and functions that support concurrency.
 
 4-	**Garbage-collected** 
 
-As we studied in programming class , its hard to determine the lifetime of a  some variable who referenced by other variables .
+As we studied in programming class , its hard to determine the lifetime of a  some variables  who referenced by other variables .
 
-Languages with garbage collectors, like Go, are able to keep track of these varibles and removed them from the memoery when they’re no longer used .
+Languages with garbage collectors, like Go, are able to keep track of these varibles and removed them from the memory  when they’re no longer used .
 
 5- **Fast** 
 
