@@ -10,7 +10,7 @@ Its easy to write ,and easy to read especially if you are familiar with C style 
 
 Moreover, its very easy to learn . There are so many  documents on the Internet : specification, tutorial, "Effective Go" and a lot more .
 
-What I really like about GO is tow thing :
+What I really like about GO is two things :
 
 **First** , its supporting for concurrency ,especially after studying concurrency the hard way in the class :)
 
