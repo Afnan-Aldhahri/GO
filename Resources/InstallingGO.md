@@ -14,3 +14,6 @@ GO installation available for these platforms :
 
 ![Install GO!](https://cloud.githubusercontent.com/assets/14142983/10209255/c42176be-6796-11e5-9ae7-95c8e8adb7de.jpg "3 platforms ")
 
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Why%20GO.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Code%20Organization.md)
