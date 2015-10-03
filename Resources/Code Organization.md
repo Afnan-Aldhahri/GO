@@ -87,3 +87,6 @@ We'll use github.com/user as our base path. Create a directory inside your works
 
     $ mkdir -p $GOPATH/src/github.com/user
 
+[Previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/InstallingGO.md ) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Go%20the%20Basics.md)
