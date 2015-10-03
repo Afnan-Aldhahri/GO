@@ -15,3 +15,7 @@ It is a statically typed language with syntax loosely derived from that of C, ad
 type safety, some dynamic-typing capabilities, additional built-in types such as variable-length arrays & key-value maps, 
 
 and a large standard library.
+
+[previous] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -  
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) - 
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Who%20and%20When%3F.md)
