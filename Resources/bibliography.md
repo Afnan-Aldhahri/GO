@@ -7,4 +7,4 @@
 
 3-https://en.wikipedia.org/wiki/Go_(programming_language)
 
-4- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+4- [An Introduction to Programming in Go by Caleb Doxsey](https://www.golang-book.com/books/intro)
