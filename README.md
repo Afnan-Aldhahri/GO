@@ -16,17 +16,17 @@ We will start *together* this journey, since **GO** is a *new* programming langu
 
 
 
-1-[What is GO ?](https://github.com/Afnan-Aldhahri/GO/blob/master/What%20is%20GO%20%3F%20.md)  
+1-[What is GO ?](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/What%20is%20GO%20%3F%20.md)  
 
-2-[Who and When?](https://github.com/Afnan-Aldhahri/GO/blob/master/Who%20and%20When%3F.md)
+2-[Who and When?](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Who%20and%20When%3F.md)
 
-3-[Why GO?](https://github.com/Afnan-Aldhahri/GO/blob/master/Why%20GO.md) 
+3-[Why GO?](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Why%20GO.md) 
 
-4-[Installing Go](https://github.com/Afnan-Aldhahri/GO/blob/master/InstallingGO.md) 
+4-[Installing Go](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/InstallingGO.md) 
 
 5-Time for learning GO
 
- * [Code Organization](https://github.com/Afnan-Aldhahri/GO/blob/master/Code%20Organization.md)
+ * [Code Organization](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Code%20Organization.md)
  
      * Workspaces
      
@@ -34,13 +34,13 @@ We will start *together* this journey, since **GO** is a *new* programming langu
      
      * Package paths
 
-* [Go the Basics](https://github.com/Afnan-Aldhahri/GO/blob/master/Go%20the%20Basics.md) 
+* [Go the Basics](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Go%20the%20Basics.md) 
  
-     * [Formatting , Comments](https://github.com/Afnan-Aldhahri/GO/blob/master/Formatting%20%2C%20Comments%20and%20Semicolons.md)
+     * [Formatting , Comments](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Formatting%20and%20Comments%20.md)
 
-     * [Names and Semicolons](https://github.com/Afnan-Aldhahri/GO/blob/master/Names.md)
+     * [Names and Semicolons](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Names%20and%20Semicolons.md)
 
-     * [Control structures](https://github.com/Afnan-Aldhahri/GO/blob/master/Control%20structures.md)
+     * [Control structures](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Control%20structures.md)
     
          * IF
          
@@ -48,7 +48,7 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          
          * Switch
          
-     * [Functions](https://github.com/Afnan-Aldhahri/GO/blob/master/Functions.md)
+     * [Functions](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Functions.md)
      
          * Multiple return values
          
@@ -56,7 +56,7 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          
          * Defer
  
-     * [Data](https://github.com/Afnan-Aldhahri/GO/blob/master/Data.md)
+     * [Data](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Data.md)
      
          * Arrays
          
@@ -65,14 +65,14 @@ We will start *together* this journey, since **GO** is a *new* programming langu
          * Printing
          
          
-     * [Initialization](https://github.com/Afnan-Aldhahri/GO/blob/master/Initialization.md)
+     * [Initialization](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Initialization.md)
      
          * Constants
          
          * Variables
          
      
-     * [Concurrency](https://github.com/Afnan-Aldhahri/GO/blob/master/Concurrency.md)
+     * [Concurrency](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Concurrency.md)
          * Share by communicating
          
          * Goroutines
