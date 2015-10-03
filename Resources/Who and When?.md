@@ -9,4 +9,4 @@ It Started by Robert Griesemer, Ken Thompson, and Rob Pike (Googlers) in late 20
 
 Released in October of 2009. 
 
-[ .wikipedia.org/wiki/Go_programming_language ! ](https://cloud.githubusercontent.com/assets/14142983/10261686/19fd7fe4-6961-11e5-837d-ae43515d3e25.jpg "this picture from en.wikipedia.org")
+! [ GO ! ](https://cloud.githubusercontent.com/assets/14142983/10261686/19fd7fe4-6961-11e5-837d-ae43515d3e25.jpg "this picture from en.wikipedia.org")
