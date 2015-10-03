@@ -153,3 +153,6 @@ Example :
     return 0
     }
 
+[Previous] ( https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Names%20and%20Semicolons.md) - 
+[Home] (https://github.com/Afnan-Aldhahri/GO/blob/master/README.md ) -
+[ Next](https://github.com/Afnan-Aldhahri/GO/blob/master/Resources/Functions.md)
