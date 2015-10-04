@@ -3,7 +3,7 @@
 
 If you just want to discover what is GO looks like and monkey with it for few minutes ,
 
-you can run the code online in **GO website** here without having to install it in your machine : 
+you can run the code online in **GO website**  without having to install it in your machine : 
 ![Try GO!](https://cloud.githubusercontent.com/assets/14142983/10209253/bf86a84a-6796-11e5-8c0e-27360d5a6aa5.jpg "Try GO")
 
 However, if you decide to learning GO and work with it for long term  , 
