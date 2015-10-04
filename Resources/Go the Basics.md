@@ -6,7 +6,7 @@ then you’re going to find Go a piece of cake .
 
 However, learning new language always need patient until you become familiar with its properties and idioms .
 
-Go [official website](https://github.com/Afnan-Aldhahri/GO/blob/master/bibliography.md) has a long details documents that describe GO properties and idioms in details.
+Go [official website](https://golang.org) has a long details documents that describe GO properties and idioms in details.
 
 you need at least weeks to cover it .
 
