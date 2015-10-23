@@ -4,4 +4,4 @@ This is my first presentation in CSCI 5828 — Fall 2015 (Foundations of Softwar
 
 My name is : Afnan Aldhahri
 
-[Home] (https://github.com/Afnan-Aldhahri/OpenGl) 
+[Home] (https://github.com/Afnan-Aldhahri/GO) 
