@@ -1,7 +1,7 @@
 
 #References 
 
-1-[GO offical wesite] (https://golang.org)
+1-[GO official wesite] (https://golang.org)
 
 2-[The Little Go Book  by Karl Seguin](http://openmymind.net/assets/go/go.pdf)
 
